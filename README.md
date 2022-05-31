@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Own Projects
 - 🌱 I’m currently learning Swift, C++, C
 - ⚡ Fun fact: My favorite color is Orange but I don't eat Oranges
-- 💌 Feel free anytime to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
+- 💌 Feel free to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
 
 
 <div>
