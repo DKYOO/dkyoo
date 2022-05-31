@@ -1,4 +1,4 @@
-### Hello epta there 👋
+### Super.hiThere 👋
 
 - 🔭 I’m currently working on my Own Projects
 - 🌱 I’m currently learning Swift, C++, C
