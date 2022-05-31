@@ -1,4 +1,4 @@
-### Super.hiThere 👋
+### super.hiThere 👋
 
 - 🔭 I’m currently working on my Own Projects
 - 🌱 I’m currently learning Swift, C++, C
