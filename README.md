@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Swift, C++, C
 - ⚡ Fun fact: My favorite color is Orange but I don't eat Oranges
 - 💌 Feel free to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
-- 🎧 Yeah, I love Syntwave Dogs Cats and Chill and Coding
+- 🎧 Yeah, I love Syntwave Dogs Cats and Chill
+- Code make world bettar 🍻
 
 
 <div>
