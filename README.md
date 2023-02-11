@@ -1,7 +1,7 @@
 ### super.hiThere 👋
 
  - 💌 Feel free to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
- - 🎧 Syntwave Dogs Cats
+ - 🎧 Synthwave power
 
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkyoo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
