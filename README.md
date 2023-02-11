@@ -1,7 +1,5 @@
 ### super.hiThere 👋
 
-- 🔭 I’m currently working on my Own Projects
- - ⚡ Fun fact: My favorite color is Orange but I don't eat Oranges
  - 💌 Feel free to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
  - 🎧 Syntwave Dogs Cats
 
