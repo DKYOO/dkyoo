@@ -1,7 +1,8 @@
-### super.hiThere 👋
+### Hi 👋
 
- - 💌 Feel free to Contact me: [KAWWA@ME.COM](KAWWA@ME.COM)
- - 🎧 Synthwave power
+ - Creating Mobile App's my Passion 
+ - 💌 Feel free to Contact me: [kawwa@icloud.COM](kawwa@icloud.COM)
+ - 🎧 Synthwave
 
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dkyoo&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
