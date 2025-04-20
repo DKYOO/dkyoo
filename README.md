@@ -1,7 +1,7 @@
 ### Hi 👋
 
  - Creating Mobile App's my Passion 
- - 💌 Feel free to Contact me: [kawwa@icloud.COM](kawwa@icloud.com)
+ - 💌 Feel free to Contact me: [kawwa@icloud.com](kawwa@icloud.com)
  - 🎧 Synthwave
 
  <div>
